@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="#08080a" style="background-color:#08080a">
+  <path d="M0 0h1600v900H0z" fill="#08080a" fill-opacity="1"/>
+  <rect x="56" y="56" width="1488" height="788" fill="#08080a" stroke="#1c1c23" stroke-width="1"/>
+  <text x="800" y="292" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="22" fill="#8a8a96" letter-spacing="10">tech<tspan fill="#4ade80">Bob</tspan></text>
+  <rect x="760" y="331" width="80" height="2" fill="#4ade80"/>
+  <text x="800" y="450" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-weight="600" font-size="46" fill="#f4f4f2"><tspan fill="#4ade80">Building</tspan> is how we make</text>
+  <text x="800" y="516" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-weight="600" font-size="46" fill="#f4f4f2">the world a better place.</text>
+</svg>
