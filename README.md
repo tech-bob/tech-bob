@@ -1,3 +1,11 @@
 <p align="center">
-  <img src="together.svg" alt="What can we build together?" width="800" />
+  <strong>tech<span style="color:#4ade80">Bob</span></strong>
+</p>
+
+<p align="center">
+  <a href="https://techbob.se">techbob.se</a>
+</p>
+
+<p align="center">
+  What can we <strong>build</strong> together?
 </p>
