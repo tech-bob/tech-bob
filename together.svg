@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-<rect width="1600" height="900" fill="#08080a"/>
-<rect x="56" y="56" width="1488" height="788" fill="#08080a" stroke="#1c1c23" stroke-width="1"/>
-<text x="800" y="292" text-anchor="middle" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="22" fill="#8a8a96" letter-spacing="8">tech<tspan fill="#4ade80">Bob</tspan></text>
-<rect x="760" y="331" width="80" height="2" fill="#4ade80"/>
-<text x="800" y="448" text-anchor="middle" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-weight="bold" font-size="48" fill="#f4f4f2">What can we</text>
-<text x="800" y="520" text-anchor="middle" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-weight="bold" font-size="48" fill="#f4f4f2"><tspan fill="#4ade80">build</tspan> together?</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#08080a"/>
+  <text x="80" y="140" font-family="Inter, DejaVu Sans, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="#f4f4f2">tech<tspan fill="#4ade80">Bob</tspan></text>
+  <a href="https://techbob.se">
+    <text x="80" y="230" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="22" fill="#4ade80">→  techbob.se</text>
+  </a>
+  <text x="80" y="310" font-family="Inter, DejaVu Sans, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f4f2">What can we <tspan fill="#4ade80" font-weight="600">build</tspan> together?</text>
 </svg>
